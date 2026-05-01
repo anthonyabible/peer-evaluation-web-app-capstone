@@ -59,7 +59,7 @@ Responsibilities included:
 
 ## Project Files
 
-- `project-roadmap.pdf` - Roadmap presentation and system planning documentation
+- `project-roadmap-sanitized.pdf` - Sanitized roadmap presentation and system planning documentation
 - `product-backlog.xlsx` - Product backlog and user story planning
 - `sprint-checklist.pdf` - Sprint checklist and completion tracking
 - `process-designer-zapier.docx` - Zapier process automation tutorial and documentation
