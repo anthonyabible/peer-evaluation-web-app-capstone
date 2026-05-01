@@ -59,11 +59,11 @@ Responsibilities included:
 
 ## Project Files
 
-- `Project Roadmap BIT 4454.pdf` - Roadmap presentation and system planning documentation
-- `BIT_4454_Sprint_CheckList.pdf` - Sprint checklist and completion tracking
-- `Product Backlog (1)-1.xlsx` - Product backlog and user story planning
-- `TechTutProcessDesignerZapier.docx` - Zapier process automation tutorial and documentation
-- `BIT4454_TechTut_ProcessDesigner_Zapier_Template.pptx` - Process automation presentation
+- `project-roadmap.pdf` - Roadmap presentation and system planning documentation
+- `product-backlog.xlsx` - Product backlog and user story planning
+- `sprint-checklist.pdf` - Sprint checklist and completion tracking
+- `process-designer-zapier.docx` - Zapier process automation tutorial and documentation
+- `process-designer-zapier-presentation.pptx` - Process automation presentation
 
 ## Summary
 
