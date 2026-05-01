@@ -1,2 +1,74 @@
-# peer-evaluation-web-app-capstone
-Academic team peer evaluation system with requirements documentation, DFDs, CRUD diagrams, Agile planning, and Zapier workflow automation.
+# Peer Evaluation Web App Capstone
+
+This project documents the planning and process design for an academic team peer evaluation system. The system was designed to support structured peer evaluation submissions, evaluation scheduling, reporting, and workflow automation.
+
+## Project Overview
+
+The project focused on designing a web-based peer evaluation system for academic teams. The system allows students to submit peer evaluations, supports instructor scheduling, and provides reporting outputs for tracking completion and evaluation results.
+
+My role focused on process design, including Data Flow Diagrams, CRUD mapping, workflow automation, sprint planning support, and Zapier-based process automation.
+
+## My Role
+
+**Process Manager / Process Designer**
+
+Responsibilities included:
+
+- Creating and reviewing Data Flow Diagrams
+- Building CRUD process/data mappings
+- Supporting Agile sprint planning documentation
+- Documenting process automation workflows
+- Designing Zapier automation for peer evaluation submission notifications
+- Connecting process requirements to system workflows and reporting outputs
+
+## Tools and Methods Used
+
+- Agile / Scrum planning
+- Product backlog
+- Sprint checklist
+- Data Flow Diagrams
+- CRUD matrix
+- Zapier workflow automation
+- Process documentation
+- Microsoft Excel
+- PowerPoint
+- Word
+
+## Key Deliverables
+
+- Project roadmap
+- Product backlog
+- Sprint checklist
+- Process Designer documentation
+- Zapier automation tutorial
+- CRUD matrix
+- Data Flow Diagram documentation
+- Workflow automation evidence
+
+## Skills Demonstrated
+
+- Business analysis
+- Requirements documentation
+- Process modeling
+- Agile project planning
+- Workflow automation
+- Systems analysis
+- Data flow mapping
+- CRUD analysis
+- Documentation and presentation
+
+## Project Files
+
+- `Project Roadmap BIT 4454.pdf` - Roadmap presentation and system planning documentation
+- `BIT_4454_Sprint_CheckList.pdf` - Sprint checklist and completion tracking
+- `Product Backlog (1)-1.xlsx` - Product backlog and user story planning
+- `TechTutProcessDesignerZapier.docx` - Zapier process automation tutorial and documentation
+- `BIT4454_TechTut_ProcessDesigner_Zapier_Template.pptx` - Process automation presentation
+
+## Summary
+
+This project demonstrates my ability to analyze business requirements, map system processes, document workflows, and design automation-supported business processes.
+
+## Disclaimer
+
+This project was created for educational and portfolio purposes. Any sensitive credentials, private data, or identifying information should be removed or anonymized before public use.
